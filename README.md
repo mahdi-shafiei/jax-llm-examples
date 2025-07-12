@@ -13,4 +13,3 @@ Current contents include:
 ---
 
 For multi-host cluster setup and distributed training, see [multi_host_README.md](./multi_host_README.md) and the [tpu_toolkit.sh script](./misc/tpu_toolkit.sh).
-
